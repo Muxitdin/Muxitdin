@@ -6,39 +6,45 @@
 Hi, I'm Mukhitdin! I specialize in building dynamic and scalable web applications. With expertise in both frontend and backend technologies, I transform ideas into functional, robust solutions. I believe in the power of clean code, strong collaboration, and continuous learning.
 
 I work primarily with React.js and Node.js/Express, leveraging MongoDB for data management. My projects incorporate modern npm packages for security, file handling, real-time features, and API integrations.
+I know these languages:
+English - B2, Russian - fluent, Uzbek - native
 
 ### 🚀 My Journey
 
 - 🔭 Currently working on scalable e-commerce solutions.
 - 🌱 Constantly exploring the latest in full-stack development.
 - ⚡ Fun fact: I'm a huge fan of One Piece and love connecting technology with anime themes!
+<br>
 
 ---
 
 ### 🧰 Tech Stack & Tools
-
 <div>
-    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-    <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30px" style="padding-right:10px;"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30px" style="padding-right:10px;"/>
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30px" style="padding-right:10px;"/>
-    <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-    <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/html.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/css.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/javascript.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/typescript.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/redux.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/react-dark.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/tailwindcss-dark.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/shadcnui.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/nodejs-dark.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/expressjs-dark.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/mongodb-dark.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/github-dark.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/git.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/figma-dark.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/java-dark.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/python-dark.svg" width="40"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/linux-dark.svg" width="40"></a>
 </div>
-<br>
-<br>
 
 ### 🧑‍💻 Current Projects
 
-- **🛒 E-commerce Platform** – Building a full-stack online clothing store with reviews, product ratings, and payment integration.
-- **💬 Real-time Chat App** – Implementing socket communication for seamless interactions.
+- **📚 Bookstore E-commerce Platform** – Developing a book e-commerce site with payment integration and an admin dashboard for managing users, books, and categories.
+- **🛒 Clothing Store** – Created an online clothing store with product reviews, ratings, secure authentication, and Stripe payment integration.
+- **💬 Chat Application** – Building a real-time chat app with socket-based communication. (Telegram clone)
+- **🤖 Telegram Bot** – Experience in developing bots using TelegrafJS/GrammyJS for user data handling, deploying on Heroku and Vercel.
 
 ---
 
@@ -53,4 +59,4 @@ I work primarily with React.js and Node.js/Express, leveraging MongoDB for data 
 **🎯 Let's Connect:**
 
 - [Instagram](https://www.instagram.com/mukhitdin_)
-- [Telegram](https://t.me/cnqrorxd)
+- [Telegram](https://t.me/nuritdinovm)
