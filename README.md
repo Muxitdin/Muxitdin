@@ -8,12 +8,6 @@ Hi, I'm Mukhitdin! I specialize in building dynamic and scalable web application
 I work primarily with React.js and Node.js/Express, leveraging MongoDB for data management. My projects incorporate modern npm packages for security, file handling, real-time features, and API integrations.
 I know these languages:
 English - B2, Russian - fluent, Uzbek - native
-
-### 🚀 My Journey
-
-- 🔭 Currently working on scalable e-commerce solutions.
-- 🌱 Constantly exploring the latest in full-stack development.
-- ⚡ Fun fact: I'm a huge fan of One Piece and love connecting technology with anime themes!
 <br>
 
 ---
