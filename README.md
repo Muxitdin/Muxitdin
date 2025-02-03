@@ -28,8 +28,8 @@ English - B2, Russian - fluent, Uzbek - native
     <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/github-dark.svg" width="40"></a>
     <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/git.svg" width="40"></a>
     <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/figma-dark.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/java-dark.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/python-dark.svg" width="40"></a>
+<!--     <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/java-dark.svg" width="40"></a> -->
+<!--     <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/python-dark.svg" width="40"></a> -->
     <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/linux-dark.svg" width="40"></a>
 </div>
 
