@@ -7,38 +7,37 @@ Hi, I'm Mukhitdin! I specialize in building dynamic and scalable web application
 
 I work primarily with React.js and Node.js/Express, leveraging MongoDB for data management. My projects incorporate modern npm packages for security, file handling, real-time features, and API integrations.
 I know these languages:
-English - B2, Russian - fluent, Uzbek - native
+**English - B2, Russian - fluent, Uzbek - native**
 <br>
 
 ---
 
 ### 🧰 Tech Stack & Tools
 <div>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/html.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/css.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/javascript.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/typescript.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/redux.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/react-dark.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/tailwindcss-dark.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/shadcnui.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/nodejs-dark.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/expressjs-dark.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/mongodb-dark.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/github-dark.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/git.svg" width="40"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/figma-dark.svg" width="40"></a>
-<!--     <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/java-dark.svg" width="40"></a> -->
-<!--     <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/python-dark.svg" width="40"></a> -->
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/raw/main/icons/linux-dark.svg" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="40"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="40"></a>
 </div>
 
 ### 🧑‍💻 Current Projects
 
-- **📚 Bookstore E-commerce Platform** – Developing a book e-commerce site with payment integration and an admin dashboard for managing users, books, and categories.
+- **📚 Bookstore E-commerce Platform** – Developed a book e-commerce site with payment integration and an admin dashboard for managing users, books, and categories.
 - **🛒 Clothing Store** – Created an online clothing store with product reviews, ratings, secure authentication, and Stripe payment integration.
 - **💬 Chat Application** – Building a real-time chat app with socket-based communication. (Telegram clone)
-- **🤖 Telegram Bot** – Experience in developing bots using TelegrafJS/GrammyJS for user data handling, deploying on Heroku and Vercel.
+- **🤖 Telegram Bot** – Experience in developing bots using TelegrafJS/GrammyJS for user data handling, deploying on Heroku, Vercel and Render.
 
 ---
 
@@ -52,5 +51,6 @@ English - B2, Russian - fluent, Uzbek - native
 
 **🎯 Let's Connect:**
 
-- [Instagram](https://www.instagram.com/mukhitdin_)
-- [Telegram](https://t.me/nuritdinovm)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nuritdinovm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhitdin-nuritdinov-9405a829a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mukhitdin_)
