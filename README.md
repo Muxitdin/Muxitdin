@@ -3,13 +3,6 @@
 
 **`FullStack Developer | Problem Solver | Continuous Learner`**
 
-Hi, I'm Mukhitdin! I specialize in building dynamic and scalable web applications. With expertise in both frontend and backend technologies, I transform ideas into functional, robust solutions. I believe in the power of clean code, strong collaboration, and continuous learning.
-
-I work primarily with React.js and Node.js/Express, leveraging MongoDB for data management. My projects incorporate modern npm packages for security, file handling, real-time features, and API integrations.
-I know these languages:
-**English - B2, Russian - fluent, Uzbek - native**
-<br>
-
 ---
 
 ### 🧰 Tech Stack & Tools
@@ -32,14 +25,8 @@ I know these languages:
     <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="40"></a>
 </div>
 
-### 🧑‍💻 Current Projects
-
-- **📚 Bookstore E-commerce Platform** – Developed a book e-commerce site with payment integration and an admin dashboard for managing users, books, and categories.
-- **🛒 Clothing Store** – Created an online clothing store with product reviews, ratings, secure authentication, and Stripe payment integration.
-- **💬 Chat Application** – Building a real-time chat app with socket-based communication. (Telegram clone)
-- **🤖 Telegram Bot** – Experience in developing bots using TelegrafJS/GrammyJS for user data handling, deploying on Heroku, Vercel and Render.
-
 ---
+
 
 ### 📊 GitHub Stats
 
@@ -48,6 +35,7 @@ I know these languages:
 </div>
 
 ---
+
 
 **🎯 Let's Connect:**
 
