@@ -1,41 +1,7 @@
 
 # Mukhitdin Nuritdinov
 
-**`FullStack Developer | Problem Solver | Continuous Learner`**
-
----
-
-### 🧰 Tech Stack & Tools
-<div>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="40"></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="40"></a>
-</div>
-
----
-
-
-### 📊 GitHub Stats
-
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Muxitdin&show_icons=true&theme=tokyonight" alt="Mukhitdin's GitHub stats" />
-</div>
-
----
-
+**FullStack Developer | Problem Solver | Continuous Learner**
 
 **🎯 Let's Connect:**
 
